@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	color: #222;
+	background-color: #fff;
+	font-family: helvetica;
+}
+
+#main {
+	width: 600px;
+	padding: 5px 15px 15px 15px;
+	margin: 0px auto;
+	text-align: left;
+	background-color: #ddd;
+	border: 1px solid #aaa;
+}
+
+#main h1 {
+	padding: 0px;
+	margin: 0px;
+}
+
+#main input {
+	border: 1px solid #aaa;
+	width: 350px;
+	text-transform: uppercase;
+}
+
+#error { 
+	color: #c44;
+}
+
+.charge0 {
+	color: #77c;
+}
+
+#footer {
+	font-size: 0.7em;
+	font-weight: bold;
+	margin: 15px 0px 0px;
+}
+
+a:link, a:visited {
+	color: #66c;
+}
