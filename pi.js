@@ -7,7 +7,8 @@
  * Available under BSD License.
  */
 
-// TODO: Don't install everything in global namespace. 
+// TODO: Don't install everything in global namespace.
+// TODO: View function is very messy. Cleanup?
 
 // Amino Acid factory
 var AA = function(name, carboxy, amino, side, charge)
